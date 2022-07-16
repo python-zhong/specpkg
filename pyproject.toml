@@ -5,9 +5,9 @@ build-backend = "setuptools.build_meta"
 name = "StoreData"
 version = "0.0.1"
 authors = [
-  { name="DevUser001", email="author@example.com" },
+  { name="DevUser001", email="python_zhong@qq.com" },
 ]
-description = "A small example package"
+description = "A package that store dictionaries into a special zipfile."
 readme = "README.md"
 license = { file="LICENSE" }
 requires-python = ">=3.7"
@@ -16,7 +16,6 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
-
 [project.urls]
 "Homepage" = "https://github.com/python-zhong/StoreData/"
 "Bug Tracker" = "https://github.com/python-zhong/StoreData/issues"
