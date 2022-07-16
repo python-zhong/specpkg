@@ -7,7 +7,7 @@ version = "0.0.1"
 authors = [
   { name="DevUser001", email="python_zhong@qq.com" },
 ]
-description = "A package that store dictionaries into a special zipfile."
+description = "A package that store dictionary into a special archive."
 readme = "README.md"
 license = { file="LICENSE" }
 requires-python = ">=3.7"
