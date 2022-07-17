@@ -2,10 +2,10 @@
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 [project]
-name = "StoreData"
+name = "specpkg"
 version = "0.0.1"
 authors = [
-  { name="DevUser001", email="python_zhong@qq.com" },
+  { name="Dev-User-01", email="python_zhong@qq.com" },
 ]
 description = "A package that store dictionary into a special archive."
 readme = "README.md"
@@ -17,5 +17,5 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 [project.urls]
-"Homepage" = "https://github.com/python-zhong/StoreData/"
-"Bug Tracker" = "https://github.com/python-zhong/StoreData/issues"
+"Homepage" = "https://github.com/python-zhong/specpkg/"
+"Bug Tracker" = "https://github.com/python-zhong/specpkg/issues"
